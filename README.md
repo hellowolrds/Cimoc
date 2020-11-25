@@ -1,6 +1,6 @@
 # 应用简介
-<img src="./screenshot/icon.png">  
-Android 平台在线看漫画的应用
+个人根据该项目进行了二次开发，喜欢的话可以下载哦，蓝奏云的链接：https://wws.lanzous.com/b01tpu2dg
+
 
 # 支持网站
 - [看漫画](http://m.ikanman.com)
